@@ -7,3 +7,5 @@
     * [Rachel读敏捷革命](rachel-scrum.md)
     * [海滨读Scrum精髓](haibin-scrum-essence.md)
     * [攀峰读项目管理修炼之道](panfeng-pro-mgt.md)
+* [201802](201802.md)
+    * [Rachel读精益产品开发PART1](rachel-lean-product-dev-part1.md)
