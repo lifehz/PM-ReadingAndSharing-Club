@@ -1,3 +1,7 @@
+---
+typora-root-url: ./
+---
+
 # 陈海春读《原则》part 5--'工作原则之构建并进化你的机器......' 章节读后感
 
 
@@ -8,7 +12,7 @@
 
 ​	下图就是机器设计的一个闭环：通过比对结果和当初设定的目标来不断调优机器，而这部机器又是由人构成的。
 
-​	![1](C:\Users\hzchenhaichun\Pictures\1.png)	![机器](C:\Users\hzchenhaichun\Pictures\机器.png)
+​	![1](/C:/Users/hzchenhaichun/Pictures/机器.png)
 
 ```
 管理者犹如一个乐队的指挥，不具体演奏某个具体的乐器，但是通过他的指挥可以演奏出美妙的交响乐。
