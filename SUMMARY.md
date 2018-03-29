@@ -9,11 +9,12 @@
     * [攀峰读项目管理修炼之道](panfeng-pro-mgt.md)
 * [201802](201802.md)
     * [Rachel读精益产品开发PART1](rachel-lean-product-dev-part1.md)
-    * [海滨读精益产品开发PART2](海滨-精益产品开发-part2.md)
+    * [海滨读精益产品开发PART2](haibing-lean-product-dev-part2.md)
     * [George读用户故事地图](George-UserStoryMapping.md)
     * [海春读《原则》part5](Haichun-Principles-part 5.md)
     * [周亮读《原则》打造良好文化](zhouliang_principles_thinking.md)
 * 201803
-    * 海春读《OKR工作法》
-
-
+    * [海春读《OKR工作法》](haichun-okr.md)
+    * [George读OKR](george-okr.md)
+    * [Rachel读与熊共舞](rachel-waltzing-with-wolf.md)
+    * [攀峰读思考快与慢](panfeng-think-fast-slow.md)
