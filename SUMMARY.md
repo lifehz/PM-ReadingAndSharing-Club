@@ -18,3 +18,5 @@
     * [George读OKR](george-okr.md)
     * [Rachel读与熊共舞](rachel-waltzing-with-wolf.md)
     * [攀峰读思考快与慢](panfeng-think-fast-slow.md)
+* [201804](201804.md)
+    * [海春读打造facebook-亲历facebook快速发展的5年](Haichun-Facebook.md)
