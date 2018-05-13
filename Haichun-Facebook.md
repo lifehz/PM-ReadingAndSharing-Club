@@ -71,7 +71,7 @@
 
 ​	作者坦诚在FB是没有所谓的流程的，这个产品开发的9大步骤是他在写书的时候总结出来的，如下图所示：	
 
-![产品流程](https://raw.githubusercontent.com/PM-RSC/PM-ReadingAndSharing-Club/master/images/product-workflow.png)
+![产品流程](https://raw.githubusercontent.com/PM-RSC/PM-ReadingAndSharing-Club/master/images/product-workflow.jpg)
 
 ​	整个环路的起点从‘描绘愿景，设置目标’开始，和我们的项目启动一样，需要有大家认可的目标。具体的目标设置就参考SMART原则了。为了说服大家参与这个项目、接受这个目标，作者介绍了需要发起人准备两样东西：一是故事（或者叫案例，就是为什么这么做，让你的说法有感染力、给别人留下深刻的印象）；二是数据（案例是个体，而数据可以体现出整体情况）。
 
