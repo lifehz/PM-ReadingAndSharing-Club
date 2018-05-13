@@ -14,7 +14,7 @@
     * [海春读《原则》part5](Haichun-Principles-part 5.md)
     * [周亮读《原则》打造良好文化](zhouliang_principles_thinking.md)
 * [201803](201803.md)
-    * [海春读《OKR工作法》](haichun-okr.md)
+    * [海春读《OKR工作法》](Haichun-okr)
     * [George读OKR](george-okr.md)
     * [Rachel读与熊共舞](rachel-waltzing-with-wolf.md)
     * [攀峰读思考快与慢](panfeng-think-fast-slow.md)
