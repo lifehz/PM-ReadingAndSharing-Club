@@ -44,7 +44,7 @@
 
 需要开会或讨论，如何判断召集或征询哪些人的意见？有一个权力-利益相关度矩阵可作参考。
 
-![干系人管理矩阵](http://p319p95sa.bkt.clouddn.com/power-interest.jpg)
+![干系人管理矩阵](http://p319p95sa.bkt.clouddn.com/power-interest.jpeg)
 
 ### 如何更好地向上管理
 
@@ -58,7 +58,7 @@
 
 ## 流程管理
 
-[网易的某项目总体流程图](http://p319p95sa.bkt.clouddn.com/overral-workflow.jpg)
+![网易的某项目总体流程图](http://p319p95sa.bkt.clouddn.com/overral-workflow.jpg)
 
 如何执行流程？可以按以下几步：
 
