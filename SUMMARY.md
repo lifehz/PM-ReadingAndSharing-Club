@@ -22,3 +22,5 @@
     * [海春读打造facebook-亲历facebook快速发展的5年](Haichun-Facebook.md)
     * [郑灵佳读网易一千零一夜](zhenglingjia-1631001.md)
     * [Rachel读网易一千零一夜](rachel-netease.md)
+* [201806](201806.md)
+    * [如何做一场有价值的TED演讲](suxia-ted-talks.md)
