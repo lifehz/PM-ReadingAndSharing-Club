@@ -96,7 +96,7 @@ By 嵇素霞
 
 克里斯：四个字：反复排练。并且在排练期间或者排练之后需要问观众的一些问题如下:
 
-![](http://p319p95sa.bkt.clouddn.com/tedtalks/talk-checklist.png?imageMogr2/size-limit/2000k!)
+![](http://p319p95sa.bkt.clouddn.com/tedtalks/ted-checklist.jpg?imageMogr2/size-limit/2000k!)
 
 我：原来排练过程的检查这么复杂，为了在舞台给听众发表一个有价值有思想，演讲者真的是做出了相当大的努力啊。经历了这么多场的演讲，如果需要形象地描述一下演讲过程，您会怎么描述呢？
 
