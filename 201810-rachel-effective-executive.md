@@ -77,7 +77,7 @@
 
 **时间「四象限」法**
 
-![](https://ask.hellobi.com/uploads/article/20180109/2ce7306907e70161adee246a1e2a78bd.png)
+![](http://p319p95sa.bkt.clouddn.com/time-matrix.png)
 
 
 美国管理学家科维提出过一个时间管理四象限法，提供了一个框架给任务分类。从「重要」和「紧急」程度两个维度，工作可以分为四个象限：
