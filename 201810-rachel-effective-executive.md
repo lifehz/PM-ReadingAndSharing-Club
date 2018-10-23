@@ -12,10 +12,13 @@
 
 部分著作：
 
-* 《管理實踐》（The Practice of Management），1954年；
+* 《公司的概念》（Concept of the Corporation），1946年
+* 《管理的实践》（The Practice of Management），1954年；
 * 《卓有成效的管理者》（The Effective Executive），1966年；
-* 《動盪時代中的管理》（Managing in Turbulent Times），1980年；
-* 《創新與創業精神》（Innovation and Entrepreneurship），1985年；
+* 《管理：使命、责任、实务》（Management: Tasks, Responsibilities, Practices），1973年
+* 《旁观者：管理大师德鲁克回忆录》（Adventures of a Bystander），1979年
+* 《动荡时代中的管理》（Managing in Turbulent Times），1980年；
+* 《创新与企业家精神》（Innovation and Entrepreneurship），1985年；
 
 
 ## 谁是「管理者」？何为「卓有成效」？
@@ -74,9 +77,8 @@
 
 **时间「四象限」法**
 
-![](https://upload.wikimedia.org/wikipedia/commons/3/32/MerrillCoveyMatrix.png)
+![](https://ask.hellobi.com/uploads/article/20180109/2ce7306907e70161adee246a1e2a78bd.png)
 
-*图片来源：Wikipedia*
 
 美国管理学家科维提出过一个时间管理四象限法，提供了一个框架给任务分类。从「重要」和「紧急」程度两个维度，工作可以分为四个象限：
 
