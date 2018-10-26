@@ -24,3 +24,4 @@
     * [Rachel读网易一千零一夜](rachel-netease.md)
 * [201806](201806.md)
     * [如何做一场有价值的TED演讲](suxia-ted-talks.md)
+* [Rachel读卓有成效的管理者](201810-rachel-effective-executive.md)
