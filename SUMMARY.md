@@ -26,3 +26,5 @@
     * [如何做一场有价值的TED演讲](suxia-ted-talks.md)
 * 201810
    * [Rachel读卓有成效的管理者](201810-rachel-effective-executive.md)
+* 201903
+   * [潘慧读《人类简史》](《人类简史》读书笔记.md)
