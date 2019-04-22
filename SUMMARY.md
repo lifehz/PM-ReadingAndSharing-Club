@@ -28,3 +28,5 @@
    * [Rachel读卓有成效的管理者](201810-rachel-effective-executive.md)
 * 201903
    * [潘慧读《人类简史》](《人类简史》读书笔记.md)
+* 201904
+   * [海春读《团队协作的五大障碍》](haichun-5-dysfunctions.md)
